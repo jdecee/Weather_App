@@ -10,25 +10,17 @@ body{
 
 div {
     text-align: center;
-    margin: 30px 250px;
+    margin: 50px 300px;
+}
+
+h1 {
     font-weight: bold;
+    border: solid;
+    color: white;
 }
 
-#sub {
-padding: px;
 
-}
-#one {
-    background-color: red;
-}
-
-#two {
-    background-color: blue;
-}
-#three {
-    background-color: aquamarine;
-}
-
-#four {
-    background-color: green;
+.button {
+    background-color: lightblue;
+    border-radius: 5px;
 }
