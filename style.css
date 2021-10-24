@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+div {
+    text-align: center;
+    margin: 50px 250px;
+    font-weight: bold
+}
+
+#sub {
+padding: px;
+
+}
+#one {
+    background-color: red;
+}
+
+#two {
+    background-color: blue;
+}
+#three {
+    background-color: aquamarine;
+}
+
+#four {
+    background-color: green;
+}
